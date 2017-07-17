@@ -1,0 +1,33 @@
+<company orderDate="1999-10-20">
+  <address country="US">
+    <name>CSC TX</name>
+    <street>123 King Street</street>
+    <city>Houston</city>
+    <state>TX</state>
+    <zip>12345</zip>
+  </address>
+  <otherAddress country="US">
+    <name>CSC NewYork</name>
+    <street>123 Queen Street</street>
+    <city>Houston</city>
+    <state>TX</state>
+    <zip>12345</zip>
+  </otherAddress>
+  <employees>
+    <employee division="D1">
+      <fullName>John Smith</fullName>
+      <yearsOfExperience>5</yearsOfExperience>
+      <title>SA</title>
+    </employee>
+    <employee division="D2">
+      <fullName>Alan Smith</fullName>
+      <yearsOfExperience>3</yearsOfExperience>
+      <title>SE</title>
+    </employee>
+    <employee division="D3">
+      <fullName>David Tundal</fullName>
+      <yearsOfExperience>3</yearsOfExperience>
+      <title>SE</title>
+    </employee>
+  </employees>
+</company>
